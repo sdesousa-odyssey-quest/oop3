@@ -1,0 +1,16 @@
+{
+    "name": "wilder/10_poo3",
+    "authors": [
+        {
+            "name": "sdesousa",
+            "email": "sylvaindesousa@free.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "App\\Vehicle\\": "src/Vehicle/",
+          "App\\HighWay\\": "src/HighWay/"
+        }
+    }
+}
